@@ -1,7 +1,5 @@
 package basepatterns.structural.proxy;
 
-import basepatterns.creational.abstractfactory.ProjectTeamFactory;
-
 /**
  * Created by Raketa on 15.01.2017.
  */
